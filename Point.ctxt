@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Point
+comment0.text=\n\ A\ class\ that\ describes\ a\ Point\ object\ as\ a\ pair\ of\ coordinates\ (x,\ y)\n
+comment1.params=px\ py
+comment1.target=Point(int,\ int)
+comment1.text=\n\ Constructor\ with\ parameters.\n\ Sets\ the\ instance\ variables\ equal\n\ to\ the\ parameters.\n
+comment2.params=
+comment2.target=Point()
+comment2.text=\n\ Constructor\ with\ no\ parameters.\n\ Sets\ x\ and\ y\ equal\ to\ 0.\n
+comment3.params=
+comment3.target=int\ getX()
+comment3.text=\n\ Accessor\:\ Returns\ x-coordinate\n
+comment4.params=
+comment4.target=int\ getY()
+comment4.text=\n\ Accessor\:\ Returns\ y-coordinate\n
+comment5.params=other
+comment5.target=int\ distance(Point)
+comment5.text=\n\ Uses\ the\ distance\ formula\ to\ return\ the\ distance\n\ between\ this\ point\ and\ another\ point,\ casted\ to\ an\ int.\n\ \n\ Notice\ the\ parameter\ is\ ANOTHER\ Point\ object,\n\ different\ from\ "this"\ one.\ We\ can\ call\ the\ methods\n\ on\ that\ other\ Point\ object.\n
+comment6.params=dx\ dy
+comment6.target=void\ move(int,\ int)
+comment6.text=\n\ Modifier\ method\ that\ moves\ the\ point.\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Accessor\ method\ that\ returns\ a\ String\ representing\n\ the\ point.\n
+numComments=8
